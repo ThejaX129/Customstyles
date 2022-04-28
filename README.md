@@ -1,7 +1,8 @@
 # Customstyles
-# Hi This is for testing
+
 **Version 2.4**
 ## Test
+
 {:.quote}Welcome to the full test template for the github md import feature of AEM. This document covers all the styles availalbe and how to implement.
 Note:when loading github url into your page, it may take a number of tries to get the content to refresh. 
 
@@ -10,7 +11,7 @@ Note:when loading github url into your page, it may take a number of tries to ge
 
 # Testing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eulo do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Another Item we are exploring is the ability to call the css that is used on the site. This isn't working yet. I will update once we have the functionality in place. There are two options IT is exploring. 
 We have requested that IT add this feature so we can call certain css properties into markdown.
