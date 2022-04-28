@@ -10,7 +10,7 @@ Note:when loading github url into your page, it may take a number of tries to ge
 
 
 # now
-{:.code-simple}it's best to wait for a few minutes to make sure you sync the latest version.
+{:.intro-paragraph}it's best to wait for a few minutes to make sure you sync the latest version.
 
 ## Headers (H2)
 {:.note}Make sure you don't use the single # for any headers. Only the title of your article should be an H1. This isn't just a visual thing, this will impact your SEO score in google.
