@@ -34,3 +34,16 @@ Here's a sentence with a footnote. [^2]
 [^2]: This is another footnote to go with the first.
 
 New footnotes <sup id="a1">[1](#c2)</sup>
+
+
+<ul>
+  <li>Basic style</li>
+  <li>Custom style</li>
+  <li>Defined style</li>
+</ul>
+
+<ol>
+  <li>Configure</li>
+  <li>Paste the URL</li>
+  <li>Check the checkbox</li>
+  <li>Submit</li>
