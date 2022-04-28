@@ -35,6 +35,7 @@ Here's a sentence with a footnote. [^2]
 
 New footnotes <sup id="a1">[1](#c2)</sup>
 
+# List
 {:.intro-paragraph}
 <ul>
   <li>Basic style</li>
@@ -48,3 +49,5 @@ New footnotes <sup id="a1">[1](#c2)</sup>
   <li>Check the checkbox</li>
   <li>Submit</li>
 </ol>
+
+
