@@ -47,3 +47,4 @@ New footnotes <sup id="a1">[1](#c2)</sup>
   <li>Paste the URL</li>
   <li>Check the checkbox</li>
   <li>Submit</li>
+</ol>
