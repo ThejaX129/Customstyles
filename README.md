@@ -35,7 +35,7 @@ Here's a sentence with a footnote. [^2]
 
 New footnotes <sup id="a1">[1](#c2)</sup>
 
-{:.note}
+{:.intro-paragraph}
 <ul>
   <li>Basic style</li>
   <li>Custom style</li>
