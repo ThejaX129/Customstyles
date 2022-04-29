@@ -7,7 +7,7 @@
 Note:when loading github url into your page, it may take a number of tries to get the content to refresh. 
 
 
-{:.greyHighlight}I am working with IT to resolve the bug. If you have just done an update in GitHub, then the already existing function for styles will be added
+{:.intro-paragraph}I am working with IT to resolve the bug. If you have just done an update in GitHub, then the already existing function for styles will be added
 
 # Testing
 
