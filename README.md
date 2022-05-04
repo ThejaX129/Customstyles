@@ -82,7 +82,7 @@ This doesn't work with our template. We have requested some code updates so that
 Another Item we are exploring is the ability to call the css that is used on the site. This isn't working yet. I will update once we have the functionality in place. There are two options IT is exploring. 
 We have requested that IT add this feature so we can call certain css properties into markdown.
 
-{: .greyHighlight}
+{:.greyHighlight}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
