@@ -423,7 +423,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eulo do eiusmod tem
 Another Item we are exploring is the ability to call the css that is used on the site. This isn't working yet. I will update once we have the functionality in place. There are two options IT is exploring. 
 We have requested that IT add this feature so we can call certain css properties into markdown.
 
-{:.intro-paragraph}it's best to wait for a few minutes to make sure you sync the latest version.This has the classname with customstyling
+{:.greyHighlight}it's best to wait for a few minutes to make sure you sync the latest version.This has the classname with customstyling
 
 
 ## Headers (H2)
