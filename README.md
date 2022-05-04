@@ -9,7 +9,7 @@ Always start with the ##.
 
 ### Sub header level 3 (H3)
 #### Sub header level 4 (H4)
-##### Sub header Level 5 (rarely used) 
+##### Sub header Level 5 (rarely used)
 
 <br><br>
 ***
@@ -63,7 +63,7 @@ mailto:
 
 
 <br><br>
-***
+****
 ### Block quotes
 This doesn't work with our template. We have requested some code updates so that block quotes actually render properly on articles. I will update this file once that is done.
 
