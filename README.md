@@ -162,7 +162,7 @@ $$
 
 This expression $$\sum\_{i=1}^n X\_i$$ is inlined but doesn't work at the moment.
  
-
+Now only added this
 my modify--- \\( \sum\_{i=1}^n X\_i \\)
 
 
