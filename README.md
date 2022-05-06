@@ -161,7 +161,9 @@ $$
 
 This expression $$\sum\_{i=1}^n X\_i$$ is inlined but doesn't work at the moment.
 
-\(\sum{i=1}^n Xi\)
+\(\sum\_{i=1}^n X\_i\)
+
+\(\sum\_{i=1}^n X\_i\)
 
 When this is a full expression, it works fine.
 
