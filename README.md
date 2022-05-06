@@ -47,6 +47,10 @@ Superscript example: H~2~O
 Subscript example: X^2^
 
 :bulb: 🖥️ :d
+# BURST team modifications:
+Superscript example: H<sub>2</sub>O
+
+Subscript example: X<sup>2</sup>
 
 <br><br>
 ***
@@ -82,13 +86,10 @@ This doesn't work with our template. We have requested some code updates so that
 Another Item we are exploring is the ability to call the css that is used on the site. This isn't working yet. I will update once we have the functionality in place. There are two options IT is exploring. 
 We have requested that IT add this feature so we can call certain css properties into markdown.
 
-{:.greyHighlight}
+{: .greyHighlight}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-# Customstyles Modifications
-
-**Version 2.4**
-## Test
+# BURST team Modifications:
 
 {:.quote}Welcome to the full test template for the github md import feature of AEM. This document covers all the styles availalbe and how to implement.
 Note:when loading github url into your page, it may take a number of tries to get the content to refresh. 
@@ -100,8 +101,6 @@ Note:when loading github url into your page, it may take a number of tries to ge
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eulo do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Another Item we are exploring is the ability to call the css that is used on the site. This isn't working yet. I will update once we have the functionality in place. There are two options IT is exploring. 
-We have requested that IT add this feature so we can call certain css properties into markdown.
 
 {:.greyHighlight}it's best to wait for a few minutes to make sure you sync the latest version.This has the classname with customstyling
 
@@ -138,6 +137,11 @@ Here's a sentence with a footnote. [^2]
 [^2]: This is another footnote to go with the first.
 
 <br><br>
+
+# BURST Team modification:
+New footnotes <sup id="a1">[1](#c2)</sup>
+
+(Added footnotes content at the bottom)
 ***
 ## Examples of math in .md
 
@@ -150,6 +154,16 @@ $$
 
 
 <br><br>
+
+# BURST Team modifications:
+
+This expression \(\sum\_{i=1}^n X\_i\) is inlined but doesn't work at the moment.
+
+When this is a full expression, it works fine.
+$$
+\\Gamma(z) = \\int_0^\\infty t^{z-1}e^{-t}dt\\,.
+$$
+
 ***
 ## Code on your page
 Adding code into your sentence is simple. 
@@ -442,3 +456,5 @@ Can we embed code from github, here is a gitlab test.
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
+
+<b id="c2">1</b> Test footnote content here. [↩](#a1)
