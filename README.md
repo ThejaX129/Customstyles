@@ -162,7 +162,8 @@ $$
 This expression $$\sum\_{i=1}^n X\_i$$ is inlined but doesn't work at the moment.
 
 (\sum\_{i=1}^n X\_i\)
-swarga--- \( \sum{i=1}^n Xi\)
+Swarga--- \( \sum{i=1}^n Xi\)
+
 
 When this is a full expression, it works fine.
 
