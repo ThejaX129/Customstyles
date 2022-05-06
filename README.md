@@ -160,11 +160,9 @@ $$
 # BURST Team modifications:
 
 This expression $$\sum\_{i=1}^n X\_i$$ is inlined but doesn't work at the moment.
- $\sum_{i=1}^n X_i$ 
  
-(\sum\_{i=1}^n X\_i\)
 
-Swarga--- \\( \sum\_{i=1}^n X\_i\\)
+Swarga--- \\( \sum\_{i=1}^n X\_i \\)
 
 
 When this is a full expression, it works fine.
