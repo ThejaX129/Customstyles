@@ -47,6 +47,7 @@ Superscript example: H~2~O
 Subscript example: X^2^
 
 :bulb: 🖥️ :d
+
 # BURST team modifications:
 Superscript example: H<sub>2</sub>O
 
@@ -80,7 +81,8 @@ This doesn't work with our template. We have requested some code updates so that
 > the present is our past.
 > 
 <br><br>
-***
+****
+
 ### CSS Attribution - Requested
 
 Another Item we are exploring is the ability to call the css that is used on the site. This isn't working yet. I will update once we have the functionality in place. There are two options IT is exploring. 
@@ -157,7 +159,7 @@ $$
 
 # BURST Team modifications:
 
-This expression \(\sum\_{i=1}^n X\_i\) is inlined but doesn't work at the moment.
+This expression $$\sum\_{i=1}^n X\_i$$ is inlined but doesn't work at the moment.
 
 \(\sum{i=1}^n Xi\)
 
