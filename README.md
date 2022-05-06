@@ -14,6 +14,7 @@ Always start with the ##.
 <br><br>
 ***
 
+
 ## General text styling
 ```markdown
 *This text will be italic*
@@ -162,7 +163,7 @@ $$
 This expression $$\sum\_{i=1}^n X\_i$$ is inlined but doesn't work at the moment.
  
 
-Swarga--- \\( \sum\_{i=1}^n X\_i \\)
+my modify--- \\( \sum\_{i=1}^n X\_i \\)
 
 
 When this is a full expression, it works fine.
